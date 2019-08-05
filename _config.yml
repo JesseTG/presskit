@@ -3,3 +3,11 @@ description: A press kit kit!
 collections:
   games:
     output: true
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .vscode
+  - .idea
+  - .gitignore
+  - README.md
